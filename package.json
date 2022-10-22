@@ -1,5 +1,5 @@
 {
-  "name": "@jetvil/jv-doc",
+  "name": "@jetvil/doc-gen",
   "version": "0.1.0",
   "description": "📑 Documentation site generator with markdown.",
   "main": "./dist/index.js",
@@ -28,11 +28,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jetvil/jv-doc.git"
+    "url": "git+https://github.com/jetvil/doc-gen.git"
   },
   "keywords": [
     "jetvil",
-    "jv-doc",
+    "doc-gen",
     "typescript",
     "nodejs",
     "javascript"
@@ -40,9 +40,9 @@
   "author": "JetVil",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jetvil/jv-doc/issues"
+    "url": "https://github.com/jetvil/doc-gen/issues"
   },
-  "homepage": "https://github.com/jetvil/jv-doc#readme",
+  "homepage": "https://github.com/jetvil/doc-gen#readme",
   "dependencies": {
     "@jetvil/types": "^0.1.8"
   }
