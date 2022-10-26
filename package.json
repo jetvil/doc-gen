@@ -9,7 +9,7 @@
     "build": "tsc",
     "build:watch": "tsc --watch",
     "lint": "eslint src --ext .ts",
-    "check:ci": "npx ts-node ./check-ci-version.ts"
+    "check:ci": "npx @jetvil/cli version --package @jetvil/jv-doc"
   },
   "devDependencies": {
     "@types/jest": "^29.0.3",
